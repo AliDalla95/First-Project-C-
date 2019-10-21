@@ -1,0 +1,38 @@
+CREATE TABLE [dbo].[bills] (
+    [b_no]      INT            NULL,
+    [b_name]    NVARCHAR (100) NULL,
+    [b_mat]     NVARCHAR (100) NULL,
+    [mat_quan]  INT            NULL,
+    [mat_price] INT            NULL,
+    [mat_all]   INT            NULL
+);
+
+GO
+CREATE TABLE [dbo].[materials] (
+    [mat_name]  NVARCHAR (100) NULL,
+    [mat_price] INT            NULL,
+    [mat_made]  NVARCHAR (100) NULL,
+    [mat_pro]   DATE           NULL,
+    [mat_exp]   DATE           NULL,
+    [mat_quan]  INT            NULL,
+    [mat_unit]  NVARCHAR (100) NULL
+);
+
+GO
+CREATE TABLE [dbo].[members] (
+    [id]     INT           NULL,
+    [m_user] NCHAR (25)    NULL,
+    [m_pass] NVARCHAR (50) NULL
+);
+
+GO
+CREATE TABLE [dbo].[menu] (
+    [menu_number]     INT           NULL,
+    [menu_user_name]  NVARCHAR (50) NULL,
+    [menu_mat_name]   NVARCHAR (50) NULL,
+    [menu_mat_number] INT           NULL,
+    [menu_mat_price]  INT           NULL,
+    [menu_all]        INT           NULL
+);
+
+GO

@@ -1,0 +1,10 @@
+04/07/2019 03:41:18 ص	This log contains information about the import schema operation into project 'Data1' on computer 'ADMIM' by user 'علي'.
+04/07/2019 03:41:19 ص	Deserializing model
+04/07/2019 03:41:19 ص	Resolving model
+04/07/2019 03:41:19 ص	Visiting imported model for types
+04/07/2019 03:41:19 ص	Scanning project for duplicate elements
+04/07/2019 03:41:19 ص	Finished duplicate element processing
+04/07/2019 03:41:19 ص	Processing extra files
+04/07/2019 03:41:19 ص	Finished importing Data-tier Application file.
+04/07/2019 03:41:19 ص	A summary of the import was saved to the following location: C:\Users\علي\documents\visual studio 2013\Projects\SuperMarket\Data1\Import Schema Logs\Data1_20190704124118.log
+04/07/2019 03:41:19 ص	Click Finish to continue...

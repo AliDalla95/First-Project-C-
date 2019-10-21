@@ -1,0 +1,17 @@
+c:\users\علي\documents\visual studio 2013\Projects\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+c:\users\علي\documents\visual studio 2013\Projects\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+c:\users\علي\documents\visual studio 2013\Projects\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+c:\users\علي\documents\visual studio 2013\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csprojResolveAssemblyReference.cache
+c:\users\علي\documents\visual studio 2013\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form1.resources
+c:\users\علي\documents\visual studio 2013\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+c:\users\علي\documents\visual studio 2013\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.Cache
+c:\users\علي\documents\visual studio 2013\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+c:\users\علي\documents\visual studio 2013\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+c:\users\علي\documents\visual studio 2013\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form2.resources
+c:\users\علي\documents\visual studio 2013\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form3.resources
+C:\Users\علي\Documents\Visual Studio 2013\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form4.resources
+C:\Users\علي\Documents\Visual Studio 2013\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form5.resources
+C:\Users\علي\Documents\Visual Studio 2013\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form6.resources
+C:\Users\علي\documents\visual studio 2013\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form7.resources
+C:\Users\علي\documents\visual studio 2013\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form8.resources
+C:\Users\علي\documents\visual studio 2013\Projects\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Form9.resources
