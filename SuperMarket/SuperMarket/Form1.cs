@@ -32,7 +32,7 @@ namespace SuperMarket
         
         private void metrobtn1_Click_1(object sender, EventArgs e)
                  {
-                     SqlConnection conn = new SqlConnection(@"Data Source=\\.\pipe\MSSQL$SQLEXPRESS\sql\query;Initial Catalog=Data1;Integrated Security=True");
+                     SqlConnection conn = new SqlConnection(@"Data Source=\\.\pipe\MSSQL$SQLEXPRESS\sql\query ;Initial Catalog=Data1;Integrated Security=True");
                      conn.Open();
                      SqlCommand cmd = new SqlCommand("select count(*) from members where m_user = '" + metrotxt1.Text + "' and m_pass = '" + metrotxt2.Text + "' ", conn);
                      int result = Convert.ToInt32(cmd.ExecuteScalar());
@@ -43,6 +43,8 @@ namespace SuperMarket
                          frm2.Show();
                          metrotxt1.Clear();
                          metrotxt2.Clear();
+                         metrotxt2.Clear();
+
                      }
                      else
                      {
